@@ -1,6 +1,6 @@
 /*
 See LICENSE folder for this sample’s licensing information.
-
+// maybe write your own code at a hackathon
 Abstract:
 View controller for selecting images and applying Vision + Core ML processing.
 */
